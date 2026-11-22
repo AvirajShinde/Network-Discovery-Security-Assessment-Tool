@@ -85,8 +85,8 @@ Targets ──► Host discovery ──► TCP port scan ──► UDP probes
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/AvirajShinde/Network-Discovery-Security-Assessment-Tool.git
+cd Network-Discovery-Security-Assessment-Tool
 python3 netaudit.py --help
 ```
 
